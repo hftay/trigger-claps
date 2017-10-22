@@ -1,5 +1,5 @@
 body {
-	background: #272727;
+	background: #222d22;
 }
 
 .claps-count {
@@ -9,7 +9,7 @@ body {
 }
 
 button{
-  background: none repeat scroll 0 0 #fb3613;
+  background: #fb3613;
   box-shadow: 0 8px #8c2e1d;
   border-radius: 50%;
   color: aliceblue;
@@ -21,6 +21,7 @@ button{
   display: block;
   cursor: pointer; 
   outline: none;
+  margin-top: 100px;
 }
 
 button:hover{
